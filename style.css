@@ -2,3 +2,16 @@
     margin: 0;
     padding: 0;
 }
+
+.containerClass{
+    display: inline-block;
+    justify-content: center;
+}
+
+.testFunc{
+    padding-top: 10px;
+}
+
+.getName{
+    padding-top: 10px;
+}
